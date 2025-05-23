@@ -1,0 +1,5 @@
+﻿SELECT * FROM dbo.Users;
+
+
+
+
